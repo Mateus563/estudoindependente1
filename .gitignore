@@ -1,2 +1,1 @@
-git rm --cached README.md
-git commit -m "Remove README.md do rastreamento do Git"
+README.md
